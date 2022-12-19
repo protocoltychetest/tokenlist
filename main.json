@@ -14,7 +14,7 @@
       "address": "0xcc491f589B45d4a3C679016195B3FB87D7848210",
       "chainId": 9000,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/tychezone/tokenlist/main/icons/wevmos.png"
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/wevmos.png"
     },
     {
       "name": "WEVMOS Token",
@@ -22,7 +22,7 @@
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
       "chainId": 9001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/tychezone/tokenlist/main/icons/wevmos.png"
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/wevmos.png"
     },
     {
       "name": "Tyche",
@@ -30,7 +30,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0x0688166fb55269509A82dCcf17E46DA9A50C0FCE",
-      "logoURI": "https://raw.githubusercontent.com/tychezone/tokenlist/main/icons/tyche_token_icon.png"
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/tyche_token_icon.png"
     },
     {
       "name": "Token 1",
@@ -38,7 +38,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0x4B4eE064999676c675A434d10AF885406eE52913",
-      "logoURI": "https://raw.githubusercontent.com/tychezone/tokenlist/main/icons/unknown.png"
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/unknown.png"
     },
     {
       "name": "Token 2",
@@ -46,7 +46,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0xC9c2f285b0DcBaD2CF19b264B82534b492e9b30d",
-      "logoURI": "https://raw.githubusercontent.com/tychezone/tokenlist/main/icons/unknown.png"
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/unknown.png"
     }
   ]
 }
