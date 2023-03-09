@@ -33,12 +33,12 @@
       "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/tyche_token_icon.png"
     },
     {
-      "name": "Token 1",
-      "symbol": "TK1",
+      "name": "Tyche USDC",
+      "symbol": "TKUSDC",
       "chainId": 9000,
       "decimals": 18,
       "address": "0x4B4eE064999676c675A434d10AF885406eE52913",
-      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/unknown.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Token 2",
