@@ -49,12 +49,44 @@
       "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/unknown.png"
     },
     {
-      "name": "Token 2",
-      "symbol": "TK2",
+      "name": "Maker",
+      "symbol": "MKR",
       "chainId": 280,
       "decimals": 18,
-      "address": "0x2DF654d7E40be3fB9A01e812Fa779199aFd7404d",
-      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/unknown.png"
+      "address": "0x03088bb5f7e2dF5601E2dB6F03f4B987bB0710aA",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/mkr.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 280,
+      "decimals": 18,
+      "address": "0xC1A87986fA49Cc885871F371f3Ca4Ac6d8e555ba",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/usdc.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "chainId": 280,
+      "decimals": 18,
+      "address": "0xcBacDE1464a2B8E559B5Ea1A2FCC6341742AdAa3",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/usdt.png"
+    },
+    {
+      "name": "wBTC",
+      "symbol": "wBTC",
+      "chainId": 280,
+      "decimals": 18,
+      "address": "0xC9F841435105BA6D90452d894B4537D74EF65AA7",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/wbtc.png"
+    },
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "chainId": 280,
+      "decimals": 18,
+      "address": "0x294cB514815CAEd9557e6bAA2947d6Cf0733f014",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/weth.png"
     },
     {
       "name": "Token 2",
