@@ -89,6 +89,14 @@
       "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/weth.png"
     },
     {
+      "name": "Tyche",
+      "symbol": "TCH",
+      "chainId": 280,
+      "decimals": 18,
+      "address": "0x744214A9114FDc4D8e345A88005B6bBa63C21F4C",
+      "logoURI": "https://raw.githubusercontent.com/protocoltychetest/tokenlist/main/icons/tyche_token_icon.png"
+    },
+    {
       "name": "Token 2",
       "symbol": "TK2",
       "chainId": 324,
